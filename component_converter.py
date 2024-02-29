@@ -152,6 +152,7 @@ def input_precircuit(st: BasicState, nq_mode:int):
 
     return pre_circ
 
+
 def qbit_to_bs(number, qbit_mode, num_mode):
 
     bs_list = [0]*num_mode

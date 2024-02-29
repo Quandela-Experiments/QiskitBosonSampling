@@ -2,3 +2,5 @@ numpy
 scipy
 qiskit
 perceval-quandela
+qiskit_aer
+qiskit_ibm_runtime
