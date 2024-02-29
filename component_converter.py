@@ -10,7 +10,6 @@ from qiskit.providers import Backend
 from qiskit_aer import AerSimulator
 from qiskit_aer.primitives import Sampler as AerSampler
 import qiskit_ibm_runtime
-from qiskit import transpile
 
 
 def integer_to_binary(n):
