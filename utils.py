@@ -1,6 +1,7 @@
-from perceval import BSCount, BSDistribution
+from perceval import BSDistribution
 
-def TVD(bsd1,bsd2):
+
+def TVD(bsd1, bsd2):
 
     s = 0
 
